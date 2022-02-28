@@ -1,6 +1,6 @@
 # Hello hello, my name is [Pedro Fernandes](https://impedro.com/) 👋
 
-I'm Software Developer, student, tech investor based in Lisbon, Portugal.
+I'm Software Developer, student, tech investor based in Lisbon, Portugal. I worked in a companies specialized in software for Government. I programming using .net, php, python, mssql, mysql, oracle db, mongo db, signalr and other real time technologies, IoT and other tech stuff.
 
 ## Get in touch
 
