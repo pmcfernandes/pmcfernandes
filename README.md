@@ -1,6 +1,6 @@
 <img width="100%" src="https://www.dropbox.com/s/uwewpmwspf8vh43/github-header-image.png?raw=1" alt="my banner">
 
-## Hello hello, my name is [Pedro Fernandes](https://impedro.com/) 👋
+## Hello, my name is [Pedro Fernandes](https://impedro.com/) 👋
 
 I'm Software Developer, student, tech investor based in Lisbon, Portugal :heart:. 
 
