@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/qFmT74H/github-header-image.png" alt="my banner">
+<img width="100%" src="https://www.dropbox.com/s/uwewpmwspf8vh43/github-header-image.png?raw=1" alt="my banner">
 
 ## Hello hello, my name is [Pedro Fernandes](https://impedro.com/) 👋
 
