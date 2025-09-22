@@ -4,7 +4,7 @@
 
 I'm Software Developer, student, tech investor based in Lisbon, Portugal :heart:. 
 
-I worked in a companies specialized in software for Government. I programming using .net c# and vb.net, PHP, Python, all SQL databases, MongoDB, react, JavaScript and NodeJS, IoT and other bla-bla-blá tech stuff.
+I worked in a companies specialized in software for Government. I programming using .net C# and VB.net, PHP, Python, all SQL databases, MongoDB, react, JavaScript and NodeJS, IoT and other bla-bla-blá tech stuff.
 
 ### Get in touch
 
