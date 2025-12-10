@@ -14,5 +14,16 @@ I worked in a companies specialized in software for Government. I programming us
 
 ### Github status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=pmcfernandes&show_icons=true"><p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmcfernandes&layout=compact"><p>
+- 🔭 I’m currently working on [Podpulse](https://github.com/pmcfernandes/podpulse)
+
+- 🌱 I’m currently learning **Laravel, Anthropic AI, Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/pmcfernandes?tab=repositories](https://github.com/pmcfernandes?tab=repositories)
+
+- 📝 I regularly write articles on [https://blog.impedro.com/](https://blog.impedro.com/)
+
+- 💬 [Ask me anything AMA](https://github.com/pmcfernandes/ama/issues/new)
+
+- 📫 How to reach me **hello@impedro.com**
+
+- ⚡ Fun fact **I prefer to live in the insanity of the mad than in the morbid reality of the sane.**
