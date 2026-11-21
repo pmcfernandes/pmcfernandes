@@ -2,11 +2,10 @@
 
 ## Hello, my name is [Pedro Fernandes](https://impedro.com/) 👋
 
-Web Programmer | Full-Stack Developer | C#, TypeScript, Node.js, and React 
 
 Development of Applications and Digital Solutions based in Sintra, Portugal :heart:. 
 
-I worked in a companies specialized in software for Government. I programming using .net C# and VB.net, PHP, Python, all SQL databases, MongoDB, react, JavaScript and NodeJS, IoT and other bla-bla-blá tech stuff.
+I working has Web Programmer | Full-Stack Developer | C#, TypeScript, Node.js, and React, IoT and other bla-bla-blá tech stuff.
 
 ### Get in touch
 
