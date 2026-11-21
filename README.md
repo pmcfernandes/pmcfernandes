@@ -5,7 +5,7 @@
 
 Development of Applications and Digital Solutions based in Sintra, Portugal :heart:. 
 
-I working has Web Programmer | Full-Stack Developer | C#, TypeScript, Node.js, and React, IoT and other bla-bla-blá tech stuff.
+I working has Web Programmer, Full-Stack Developer, C#, TypeScript, Node.js, React, IoT and other bla-bla-blá tech stuff.
 
 ### Get in touch
 
